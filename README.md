@@ -41,16 +41,10 @@ BeatWave/
 ├── index.html          # Main Website Structure
 ├── style.css           # Styling & Responsive Design
 │
-├── images/
-│   ├── hero-bg.jpg
-│   ├── playlist-1.jpg
-│   ├── playlist-2.jpg
-│   ├── artist-1.jpg
-│   └── artist-2.jpg
-│
+├── images
+│   
 └── README.md           # Project Documentation
 ```
-
 ---
 
 ## 📱 Responsive Design
@@ -67,7 +61,8 @@ CSS Media Queries are used to ensure proper spacing, alignment, and layout respo
 
 ## 💻 How to Run the Project
 
-git clone : 
+git clone : https://cherlasindhura29.github.io/beatwave-responsive-website/
+
 
 1. Clone or download the project files.
 2. Open the project folder.
