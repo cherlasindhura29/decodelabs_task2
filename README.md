@@ -61,7 +61,8 @@ CSS Media Queries are used to ensure proper spacing, alignment, and layout respo
 
 ## 💻 How to Run the Project
 
-git clone : https://cherlasindhura29.github.io/beatwave-responsive-website/
+git clone : https://cherlasindhura29.github.io/decodelabs_task2/
+
 
 
 1. Clone or download the project files.
